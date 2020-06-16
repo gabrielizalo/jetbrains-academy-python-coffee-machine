@@ -1,0 +1,7 @@
+spanish_text = input()
+spanish_text = spanish_text.replace(',', '')
+spanish_text = spanish_text.replace('.', '')
+spanish_text = spanish_text.replace('!', '')
+spanish_text = spanish_text.replace('?', '')
+spanish_text = spanish_text.lower()
+print(spanish_text)
