@@ -118,5 +118,5 @@ files:
     print(beans, "g of coffee beans")
   learner_created: true
 feedback_link: https://hyperskill.org/projects/68/stages/368/implement
-status: Unchecked
+status: Solved
 record: -1
