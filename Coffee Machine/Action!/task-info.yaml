@@ -305,5 +305,5 @@ files:
         print('Yes, I can make that amount of coffee (and even', min_cups - no_cups, 'more than that)')
   learner_created: true
 feedback_link: https://hyperskill.org/projects/68/stages/369/implement
-status: Unchecked
+status: Solved
 record: -1
