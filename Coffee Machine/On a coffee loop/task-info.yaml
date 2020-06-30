@@ -338,5 +338,9 @@ files:
     print_machine_state()
   learner_created: true
 feedback_link: https://hyperskill.org/projects/68/stages/370/implement
-status: Unchecked
+status: Solved
+feedback:
+  message: Congratulations! Continue on <a href="https://hyperskill.org/projects/68/stages/370/implement">JetBrains
+    Academy</a>
+  time: Tue, 30 Jun 2020 20:01:34 UTC
 record: -1
