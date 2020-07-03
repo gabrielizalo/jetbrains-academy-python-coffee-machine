@@ -10,10 +10,7 @@ class RightTriangle:
         return 0.5 * self.a * self.b
 
     def validate_right(self):
-        if pow(self.c, 2) == pow(self.a, 2) + pow(self.b, 2):
-            return True
-        else:
-            return False
+        return pow(self.a, 2) + pow(self.b, 2) == pow(self.c, 2)
 
 
 # triangle from the input
