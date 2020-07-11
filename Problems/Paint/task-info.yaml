@@ -10,5 +10,9 @@ files:
         # create the method here
   learner_created: false
 feedback_link: https://hyperskill.org/learn/step/6986
-status: Unchecked
+status: Solved
+feedback:
+  message: <html>Correct solution<br/><br/>Continue on <a href="https://hyperskill.org/learn/step/6986">JetBrains
+    Academy</a></html>
+  time: Sat, 11 Jul 2020 01:27:01 UTC
 record: -1
